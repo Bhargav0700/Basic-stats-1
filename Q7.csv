@@ -1,0 +1,33 @@
+,Points,Score,Weigh,,,,,,,
+Mazda RX4,3.9,2.62,16.46,,,,,,,
+Mazda RX4 Wag,3.9,2.875,17.02,,,,,,,
+Datsun 710,3.9,2.32,18.61,,,,,,,
+Hornet 4 Drive,3.9,3.215,19.44,,,POINTS,,SCORE,,Weigh
+Hornet Sportabout,3.9,3.44,17.02,,,,,,,
+Valiant,3.9,3.46,20.22,,,Mean ,,Mean,,mean
+Duster 360,3.9,3.57,15.84,,,3.8925,,3.21725,,17.84875
+Merc 240D,3.9,3.19,20,,,,,,,
+Merc 230,3.9,3.15,22.9,,,Median,,median,,median
+Merc 280,3.9,3.44,18.3,,,3.9,,3.325,,17.71
+Merc 280C,3.9,3.44,18.9,,,,,,,
+Merc 450SE,3.9,4.07,17.4,,,Mode,,Mode,,mode
+Merc 450SL,3.9,3.73,17.6,,,3.9,,3.44,,17.02
+Merc 450SLC,3.9,3.78,18,,,,,,,
+Cadillac Fleetwood,3.9,5.25,17.98,,,Variance,,variance,,variance
+Lincoln Continental,3.9,5.424,17.82,,,0.011922581,,0.957378968,,3.193166129
+Chrysler Imperial,3.9,5.345,17.42,,,,,,,
+Fiat 128,3.9,2.2,19.47,,,std,,std,,std
+Honda Civic,3.9,1.615,18.52,,,0.10919057,,0.978457443,,1.786943236
+Toyota Corolla,3.9,1.835,19.9,,,,,,,
+Toyota Corona,3.9,2.465,20.01,,,Range,,range,,range
+Dodge Challenger,3.9,3.52,16.87,,,0.68,,3.911,,8.4
+AMC Javelin,3.9,3.435,17.3,,,,,,,
+Camaro Z28,3.9,3.84,15.41,,,,,,,
+Pontiac Firebird,3.9,3.845,17.05,,,,,,,
+Fiat X1-9,3.9,1.935,18.9,,,,,,,
+Porsche 914-2,3.9,2.14,16.7,,,,,,,
+Lotus Europa,3.77,1.513,16.9,,,,,,,
+Ford Pantera L,4.22,3.17,14.5,,,,,,,
+Ferrari Dino,3.62,2.77,15.5,,,,,,,
+Maserati Bora,3.54,3.57,14.6,,,,,,,
+Volvo 142E,4.11,2.78,18.6,,,,,,,
